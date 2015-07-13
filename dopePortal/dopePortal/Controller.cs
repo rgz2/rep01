@@ -34,6 +34,7 @@ namespace dopePortal
         // DELETE api/<controller>/5
         public void Delete(int id)
         {
+            int a = 10;
         }
     }
 }
